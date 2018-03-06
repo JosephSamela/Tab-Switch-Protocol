@@ -21,6 +21,6 @@ This project uses the [Digispark](https://www.ebay.com/itm/General-Digispark-Kic
 
 > OBJECTIVE CHARLIE: B-01100010
 > March 05, 2018 12:37
-> Intelligence operatives have completed field trials. Navigational effectiveness of the *DEDICATED SWITCH* has exceeded expectations! Adjusting population models with new data. Past simulations exaggerated tab sustainability numbers.
+> Intelligence operatives have completed field trials. Navigational effectiveness of the *DEDICATED SWITCH* has exceeded expectations! Adjusting population models with new data. Past simulations exaggerated tab sustainability numbers. The future is bright!
 
 Start mashing the button!
